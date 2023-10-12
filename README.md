@@ -29,6 +29,5 @@ Just a CE student, studying how to talk to computers.
 
 ###
 
-<img src="https://raw.githubusercontent.com/pxzya/pxzya/output/snake.svg" alt="Snake animation" />
 
 ###
